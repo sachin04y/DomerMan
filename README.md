@@ -4,4 +4,4 @@ Usage :
 exposed method -> '_dm'
 Just like jquery's '$'
 
-More information will added soon.
+More information and APIs coming soon. 
